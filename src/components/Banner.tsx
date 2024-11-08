@@ -134,9 +134,6 @@ export default function Banner() {
             navigate("/");
           }}
         />
-        <StyledBadge>
-          ALPHA <VersionText>v1.1</VersionText>
-        </StyledBadge>
       </TitleWrapper>
       <LoginWrapper>
         <LoginFormWrapper>
